@@ -181,3 +181,8 @@ After your pull request is merged, you can delete your branch
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
 
 ---
+<<<<<<< HEAD
+=======
+
+Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
+>>>>>>> 8404a67a043ea397fbb9f7f9fe6d24cdd2eef38a

@@ -19,6 +19,7 @@
       "name": "Black pencil",
       "price": "1.50",
       "id": 4
+<<<<<<< HEAD
     },
     {
       "name": "demo",
@@ -27,3 +28,8 @@
     }
   ]
 }
+=======
+    }
+  ]
+}
+>>>>>>> 8404a67a043ea397fbb9f7f9fe6d24cdd2eef38a
